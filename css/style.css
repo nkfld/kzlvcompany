@@ -1,8 +1,8 @@
 @font-face {
     font-family: "Mytupi";
-    src: url("fonts/Mytupi.ttf.woff") format("woff"),
-        url("fonts/Mytupi.ttf.svg") format("svg"), url("fonts/Mytupi.ttf.eot"),
-        url("Mytupi-Ultra-condensed-ExtraBold.ttf.eot?#iefix")
+    src: url("../fonts/Mytupi.ttf.woff") format("woff"),
+        url("../fonts/Mytupi.ttf.svg") format("svg"), url("../fonts/Mytupi.ttf.eot"),
+        url("../Mytupi-Ultra-condensed-ExtraBold.ttf.eot?#iefix")
             format("embedded-opentype");
     font-weight: normal;
     font-style: normal;
